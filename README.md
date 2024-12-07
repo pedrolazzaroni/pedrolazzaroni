@@ -2,13 +2,17 @@
 
 ###
 
+<h3 align="left">Estatísticas</h3>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrolazzaroni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrolazzaroni&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJoMDd1eml1eGh5OGo4NjJ2eDk3NGlzNjdjcTIyNmxhbzAxYjZmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RlrcXMffVZaouUVPGD/giphy.gif"  />
+<h3 align="left">Linguagens</h3>
 
 ###
 
@@ -32,6 +36,10 @@
 
 ###
 
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJoMDd1eml1eGh5OGo4NjJ2eDk3NGlzNjdjcTIyNmxhbzAxYjZmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RlrcXMffVZaouUVPGD/giphy.gif"  />
+
+###
+
 <div align="left">
   <a href="https://www.youtube.com/@pedro_lazzaroni" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -43,11 +51,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pedrolazzaroni/pedrolazzaroni/output/snake.svg" alt="Snake animation" />
 
 ###
